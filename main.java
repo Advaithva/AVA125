@@ -5,7 +5,7 @@ class Main {
         // Comment 
         // Let us get Started
         System.out.println("Hello Java");
- 
+        // Use underscore if the Car Info has two or more words (ex - Maruthi_Suzuki)
         Scanner scanner = new Scanner(System.in);
         System.out.println(" ");
         System.out.println("[Car Info]");
